@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jolexDev
-- 👀 I’m interested in Front End Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning The Odin Project
 - 📫 Contact: @jovatzaa
 - 😄 Pronouns: he/him
